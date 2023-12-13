@@ -14,17 +14,8 @@
 <a href="https://stackoverflow.com/users/18805228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18805228" height="30" width="40" /></a>
 <a href="https://codepen.io/@bimsara_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@bimsara_m" height="30" width="40" /></a>
 <a href="https://twitter.com/bimsara_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bimsara_m" height="30" width="40" /></a>
-
-<!-- facebook -->
-
 <a href="https://fb.com/bimsara madurapperuma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bimsara madurapperuma" height="30" width="40" /></a>
-
-<!-- instagram -->
-
 <a href="https://instagram.com/bimsara_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bimsara_m" height="30" width="40" /></a>
-
-<!-- youtube -->
-
 <a href="https://www.youtube.com/c/bimbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bimbi" height="30" width="40" /></a>
 
 </p>
