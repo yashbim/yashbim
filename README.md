@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bimsara</h1>
+<h1 align="center">Hi there 👋, I'm Bimsara</h1>
 <h3 align-items="center">A passionate software developer from Sri Lanka</h3>
 
 <!-- Profile view count -->
