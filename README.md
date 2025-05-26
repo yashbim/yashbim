@@ -1,4 +1,6 @@
-# <div align="center">💫 Welcome to Bim's Digital Universe 💫</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bimsara%20Madurapperuma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</div>
 
 <div align="center">
   
@@ -6,16 +8,12 @@
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bimsara%20Madurapperuma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-</div>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About The Developer**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
 ```typescript
 const bim = {
     location: "🏝️ Sri Lanka",
-    currentFocus: ["AI/ML", "Cloud Architecture", "Full Stack Development"],
+    currentFocus: ["Full Stack Development", "Native Android Development", "AI/ML", "Cloud Architecture",],
     funFact: "I turn caffeine into code and ideas into reality ☕→💻",
     askMeAbout: ["Web Dev", "Mobile Apps", "Cloud Solutions", "AI/ML"],
     technologies: {
@@ -26,7 +24,7 @@ const bim = {
         databases: ["MySQL", "SQLite", "MariaDB", "Firebase"],
         tools: ["Docker", "Git", "Figma", "Postman", "Grafana"]
     },
-    currentlyLearning: "Advanced AI/ML algorithms and Cloud-Native architectures",
+    currentlyLearning: "NextJS",
     lifePhilosophy: "Code with passion, create with purpose 🚀"
 };
 ```
@@ -118,7 +116,7 @@ const bim = {
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=yashbim&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="Bim's GitHub Streak"/>
 </div>
-
+<!-- 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Coding Activity**
 
 <div align="center">
@@ -129,7 +127,7 @@ const bim = {
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yashbim&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
+</div> -->
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> **Latest Blog Posts**
 
@@ -137,7 +135,7 @@ const bim = {
 - Coming soon! Follow me on [Medium](https://medium.com/@ybimsara03) for tech insights and tutorials
 <!-- BLOG-POST-LIST:END -->
 
-## 🎯 **2024 Goals**
+<!-- ## 🎯 **2024 Goals**
 
 ```python
 goals_2024 = {
@@ -161,7 +159,7 @@ for goal, description in goals_2024.items():
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
+</div> -->
 
 ## 🎵 **Fun Fact**
 
@@ -173,13 +171,11 @@ for goal, description in goals_2024.items():
   
 </div>
 
-## 📈 **Profile Views Counter**
-
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=yashbim&style=for-the-badge&color=brightgreen)
   
-  <img src="https://visitcount.itsvg.in/api?id=yashbim&label=Profile%20Views&color=12&icon=6&pretty=true" />
+  <!-- <img src="https://visitcount.itsvg.in/api?id=yashbim&label=Profile%20Views&color=12&icon=6&pretty=true" /> -->
   
 </div>
 
