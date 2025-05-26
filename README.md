@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Cloud+Solutions+Architect;Creative+Problem+Solver)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Mobile+Application+Developer)
 
 </div>
 
@@ -39,7 +39,7 @@ const bim = {
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=Let's+connect+and+build+something+amazing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=500&lines=Let%27s+connect+and+build+something+amazing%21)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/bimsara-madurapperuma-ab6a53232">
@@ -163,10 +163,14 @@ for goal, description in goals_2024.items():
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
-## 🎵 **Currently Vibing To**
+## 🎵 **Fun Fact**
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k5kp6dl6l4q4he4mz36qiw5pem&count=1&unique=true" alt="Spotify Recently Played" />
+  
+**🎧 Currently coding to the rhythm of innovation and creativity! 🚀**
+
+*"The best code is written with good music in the background"*
+  
 </div>
 
 ## 📈 **Profile Views Counter**
