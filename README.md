@@ -1,8 +1,9 @@
-# <div align="center">💫 Welcome 💫</div>
+# <div align="center">💫 Welcome to Bim's Digital Universe 💫</div>
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Cloud+Solutions+Architect;Creative+Problem+Solver)
+
 </div>
 
 <div align="center">
