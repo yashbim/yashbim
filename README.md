@@ -1,18 +1,194 @@
-# 💫 You can call me Bim
-🔭 A passionate software developer from Sri Lanka
+# <div align="center">💫 Welcome to Bim's Digital Universe 💫</div>
 
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Cloud+Solutions+Architect;Creative+Problem+Solver)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bimsara.madurapperuma) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bimsara_m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bimsara-madurapperuma-ab6a53232) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ybimsara03) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18805228) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Bimsara_M) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bimsaram970) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ybimsara03@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yashbim&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yashbim&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashbim&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bimsara%20Madurapperuma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</div>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About The Developer**
+
+```typescript
+const bim = {
+    location: "🏝️ Sri Lanka",
+    currentFocus: ["AI/ML", "Cloud Architecture", "Full Stack Development"],
+    funFact: "I turn caffeine into code and ideas into reality ☕→💻",
+    askMeAbout: ["Web Dev", "Mobile Apps", "Cloud Solutions", "AI/ML"],
+    technologies: {
+        frontend: ["React", "HTML5", "CSS3", "JavaScript", "TailwindCSS"],
+        backend: ["Python", "Java", "Kotlin", "FastAPI", "Spring"],
+        mobile: ["Android Development", "Kotlin"],
+        cloud: ["AWS", "Google Cloud", "Firebase"],
+        databases: ["MySQL", "SQLite", "MariaDB", "Firebase"],
+        tools: ["Docker", "Git", "Figma", "Postman", "Grafana"]
+    },
+    currentlyLearning: "Advanced AI/ML algorithms and Cloud-Native architectures",
+    lifePhilosophy: "Code with passion, create with purpose 🚀"
+};
+```
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashbim&custom_title=Bim's%20Contribution%20Graph&bg_color=0D1117&color=7c3aed&line=00d2d3&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph">
+</div>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Connect With Me**
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=Let's+connect+and+build+something+amazing!)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://linkedin.com/in/bimsara-madurapperuma-ab6a53232">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse"/>
+  </a>
+  <a href="https://facebook.com/bimsara.madurapperuma">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/bimsara_m">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Bimsara_M">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://medium.com/@ybimsara03">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://stackoverflow.com/users/18805228">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@bimsaram970">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="mailto:ybimsara03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+</div>
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **Tech Arsenal**
+
+<div align="center">
+
+### 🌐 Frontend Universe
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&theme=dark" />
+</p>
+
+### ⚡ Backend Powerhouse  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,spring,fastapi&theme=dark" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,git,github,gitlab&theme=dark" />
+</p>
+
+### 🗄️ Database Management
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase&theme=dark" />
+</p>
+
+### 🎨 Design & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,premiere,postman&theme=dark" />
+</p>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6&height=2"/>
+</div>
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> **GitHub Analytics**
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yashbim&show_icons=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" alt="Bim's GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbim&layout=compact&hide_border=true&title_color=00d9ff&text_color=00d9ff&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=yashbim&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="Bim's GitHub Streak"/>
+</div>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Coding Activity**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yashbim&show_icons=true&hide_border=true&title_color=00d9ff&text_color=00d9ff&bg_color=0d1117&custom_title=This%20Week%20I%20Spent%20My%20Time%20On" />
+</div>
+
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashbim&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> **Latest Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+- Coming soon! Follow me on [Medium](https://medium.com/@ybimsara03) for tech insights and tutorials
+<!-- BLOG-POST-LIST:END -->
+
+## 🎯 **2024 Goals**
+
+```python
+goals_2024 = {
+    "🚀 Launch": "3 major open-source projects",
+    "📚 Learn": "Advanced AI/ML and Cloud Architecture",
+    "🤝 Contribute": "More to open-source community",
+    "📝 Write": "Technical blogs and tutorials",
+    "🎯 Master": "DevOps and CI/CD pipelines",
+    "🌟 Build": "Innovative solutions that matter"
+}
+
+for goal, description in goals_2024.items():
+    print(f"{goal} {description}")
+```
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6&height=2"/>
+</div>
+
+## 💡 **Random Dev Quote**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+## 🎵 **Currently Vibing To**
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k5kp6dl6l4q4he4mz36qiw5pem&count=1&unique=true" alt="Spotify Recently Played" />
+</div>
+
+## 📈 **Profile Views Counter**
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=yashbim&style=for-the-badge&color=brightgreen)
+  
+  <img src="https://visitcount.itsvg.in/api?id=yashbim&label=Profile%20Views&color=12&icon=6&pretty=true" />
+  
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yashbim&icon=6&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+</div>
+
+<div align="center">
+  
+**💫 "Code is poetry written in logic" 💫**
+
+*Made with ❤️ and lots of ☕*
+
+</div>
